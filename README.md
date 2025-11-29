@@ -92,7 +92,62 @@ pip install requests
 
 ---
 
-## ▶️ Executando o Projeto
+# 🔧 Configuração Obrigatória Antes de Usar o Sistema
+
+Para que o CineVerse funcione corretamente, **duas configurações precisam ser feitas manualmente**:
+
+---
+
+## ✅ 1. Definir o administrador principal
+
+Acesse o arquivo:
+
+```
+app/utils/admin_utils.py
+```
+
+Neste arquivo, defina os dados do **ADMINISTRADOR PRINCIPAL**, preenchendo:
+
+* **username**
+* **senha**
+* **email**
+
+Essas informações serão usadas para acessar o **painel administrativo** logo após iniciar o sistema.
+
+---
+
+## 2. Inserir suas chaves reais no config
+
+O arquivo:
+
+```
+app/config/config.py
+```
+
+contém chaves **fictícias** por segurança.
+Você deve substituir pelos seus valores reais:
+
+* `SECRET_KEY`
+* `TMDB_API_KEY`
+* `BREVO_API_KEY`
+
+Exemplo:
+
+```python
+SECRET_KEY = "SUA_SECRET_KEY_REAL_AQUI"
+TMDB_API_KEY = "SUA_CHAVE_TMDB_REAL_AQUI"
+BREVO_API_KEY = "SUA_CHAVE_BREVO_REAL_AQUI"
+```
+
+Essas chaves são necessárias para:
+
+* Segurança da sessão (SECRET_KEY)
+* Consulta de filmes pela API do TMDB
+* Envio de e-mails pela Brevo (recuperação de senha)
+
+---
+
+## Executando o Projeto
 
 O arquivo principal é **run.py**, contendo:
 
@@ -103,7 +158,7 @@ if __name__ == "__main__":
 
 ### 🔹 Opção 1 — Pelo botão “Run” do editor
 
-Se seu editor possui botão Run (VSCode, PyCharm etc.), basta abrir `run.py` e executar.
+Se seu editor possui botão “Run” (VSCode, PyCharm etc.), basta abrir `run.py` e executar.
 
 ### 🔹 Opção 2 — Via terminal
 
@@ -119,7 +174,7 @@ flask run
 python run.py
 ```
 
-O servidor rodará normalmente em:
+O servidor ficará disponível em:
 
 ```
 http://127.0.0.1:5000
