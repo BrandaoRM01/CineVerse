@@ -952,5 +952,28 @@
             "Ellen Tamaki"
         ],
         "trailer_url": "https://www.youtube.com/watch?v=8yVH48YVy1U"
+    },
+    {
+        "tmdb_id": 11459,
+        "titulo": "Sky High: Super Escola de Her\u00f3is",
+        "descricao": "O jovem Will Stronghold, filho dos lend\u00e1rios her\u00f3is Comandante e Super Jato, est\u00e1 ansioso para ser o mais novo aluno de uma ultra-moderna escola, criada para formar os her\u00f3is de amanh\u00e3. Entretanto, sem nenhum poder aparente, Will parece destinado a ser apenas um \"ajudante de her\u00f3i\". Mas ao descobrir seus verdadeiros poderes ele aprender\u00e1 que somente a lealdade e o trabalho em equipe formam um verdadeiro her\u00f3i.",
+        "data_lancamento": "2005-07-29",
+        "avaliacao": 6.252,
+        "poster_path": "/mUVPAWrszwEy1TNblitVkuYyb7I.jpg",
+        "poster_custom": null,
+        "generos": [
+            "Aventura",
+            "Com\u00e9dia",
+            "Fam\u00edlia"
+        ],
+        "diretor": "Mike Mitchell",
+        "atores_principais": [
+            "Michael Angarano",
+            "Mary Elizabeth Winstead",
+            "Kurt Russell",
+            "Kelly Preston",
+            "Danielle Panabaker"
+        ],
+        "trailer_url": null
     }
 ]
