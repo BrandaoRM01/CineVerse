@@ -98,7 +98,7 @@ Para que o CineVerse funcione corretamente, **duas configurações precisam ser 
 
 ---
 
-## ✅ 1. Definir o administrador principal
+## 1. Definir o administrador principal
 
 Acesse o arquivo:
 
