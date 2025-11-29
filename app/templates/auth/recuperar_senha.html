@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% block titulo %}Recuperar Senha - CineVerse{% endblock titulo %}
+
+{% block css %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/auth/auth.css') }}">
+{% endblock css %}
+
+{% block conteudo %}
+<div class="container my-5 d-flex justify-content-center">
+    <div class="card bg-dark text-light shadow" style="width: 100%; max-width: 400px;">
+        <div class="card-body">
+            <h3 class="card-title text-center mb-4">Recuperar Senha</h3>
+            <p class="text-center small mb-4">
+                Informe o e-mail associado à sua conta e enviaremos um link para redefinir sua senha.
+            </p>
+
+            <form id="form-recuperar" method="POST" action="{{ url_for('auth_bp.recuperar_senha') }}">
+                <div class="mb-3">
+                    <label for="email" class="form-label">E-mail <span class="text-danger">*</span></label>
+                    <input type="email" class="form-control bg-secondary text-light border-0" id="email"
+                        placeholder="seuemail@exemplo.com" required>
+                </div>
+
+                <button type="submit" class="btn btn-danger w-100">Enviar link de recuperação</button>
+
+                <div id="mensagem-recuperar" class="mt-3 text-center"></div>
+            </form>
+
+            <p class="text-center mt-3 mb-0">
+                <a href="{{ url_for('main_bp.login') }}" class="text-decoration-none text-light small">
+                    Voltar ao login
+                </a>
+            </p>
+        </div>
+    </div>
+</div>
+{% endblock conteudo %}
+
+{% block scripts %}
+<script src="{{ url_for('static', filename='js/auth/recuperar_senha.js') }}"></script>
+{% endblock scripts %}

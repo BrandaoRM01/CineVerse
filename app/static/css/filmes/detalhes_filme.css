@@ -1,0 +1,132 @@
+#detalhes-filme {
+    display: flex;
+    align-items: stretch;
+    gap: 20px;
+}
+
+#detalhes-filme .col-md-5 {
+    display: flex;
+}
+
+#detalhes-filme .col-md-5 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: .5rem;
+    box-shadow: 0 6px 20px rgba(255, 76, 76, 0.3);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+#detalhes-filme .col-md-5 img:hover {
+    transform: scale(1.03);
+    box-shadow: 0 10px 25px rgba(255, 76, 76, 0.5);
+}
+
+#detalhes-filme .col-md-7 {
+    display: flex;
+    flex-direction: column;
+}
+
+#detalhes-filme .ratio {
+    margin-top: 20px;
+}
+
+#detalhes-filme .ratio iframe {
+    border-radius: 12px;
+    box-shadow: 0 6px 20px rgba(255, 76, 76, 0.3);
+    transition: transform 0.3s ease;
+}
+
+#detalhes-filme .ratio iframe:hover {
+    transform: scale(1.02);
+}
+
+h2 {
+    font-size: 2rem;
+    color: #fff;
+    margin-bottom: 1rem;
+    animation: fadeInUp 0.8s ease forwards;
+}
+
+#detalhes-filme p {
+    line-height: 1.6;
+    color: #ccc;
+}
+
+#detalhes-filme strong {
+    color: #d03030;
+}
+
+#detalhes-filme .btn-outline-danger {
+    border-color: #ff4c4c;
+    color: #ff4c4c;
+    transition: all 0.3s ease;
+    font-weight: 500;
+    width: 50%;
+    align-self: center;
+}
+
+#detalhes-filme .btn-outline-danger:hover {
+    background-color: #ff4c4c;
+    color: #fff;
+    transform: scale(1.05);
+}
+
+#mensagem {
+    font-weight: 500;
+    border-radius: 8px;
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@media (max-width: 992px) {
+    h2 {
+        font-size: 1.75rem;
+    }
+
+    #detalhes-filme .col-md-5 img {
+        max-height: 400px;
+    }
+}
+
+@media (max-width: 768px) {
+    #detalhes-filme {
+        flex-direction: column;
+    }
+
+    #detalhes-filme .col-md-5 img {
+        height: auto;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+
+    #detalhes-filme .btn-outline-danger {
+        width: 70%;
+    }
+}
+
+@media (max-width: 576px) {
+    h2 {
+        font-size: 1.3rem;
+    }
+
+    #detalhes-filme .col-md-5 img {
+        max-height: 250px;
+    }
+
+    #detalhes-filme .btn-outline-danger {
+        width: 90%;
+    }
+}

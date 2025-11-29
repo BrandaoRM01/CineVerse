@@ -1,0 +1,138 @@
+h1 {
+    color: #fff;
+    text-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
+    animation: fadeInUp 0.8s ease forwards;
+}
+
+form {
+    background: rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(6px);
+    background-image: url("/static/img/background-card-admin.png");
+    background-size: cover;
+    background-position: center;
+    border-radius: 12px;
+    padding: 1.5rem;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.5);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+form:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 12px 35px rgba(255, 76, 76, 0.3);
+}
+
+form label {
+    color: #ccc;
+}
+
+.input-transparent {
+    background: transparent !important;
+    color: #fff !important;
+    border: 1px solid rgba(255, 255, 255, 0.5) !important;
+    border-radius: 8px;
+    padding: 10px 12px;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.input-transparent::placeholder {
+    color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.input-transparent:focus {
+    border-color: #ff4c4c !important;
+    outline: none !important;
+    box-shadow: 0 0 8px rgba(255, 76, 76, 0.5) !important;
+}
+
+.btn-danger {
+    background-color: #ff4c4c;
+    border-color: #ff4c4c;
+    transition: all 0.3s ease, box-shadow 0.3s ease;
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+.btn-danger:hover {
+    background-color: #ff7373;
+    border-color: #ff7373;
+    box-shadow: 0 4px 15px rgba(255, 76, 76, 0.6);
+    transform: scale(1.05);
+}
+
+#mensagem-editar {
+    font-weight: 500;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+img {
+    border-radius: 8px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 25px rgba(255, 76, 76, 0.6);
+}
+
+iframe {
+    border-radius: 8px;
+    border: 1px solid #555;
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@media (max-width: 768px) {
+    form {
+        padding: 1rem;
+    }
+
+    img {
+        max-height: 250px;
+    }
+
+    iframe {
+        width: 100%;
+        height: 200px;
+    }
+}
+
+@media (max-width: 500px) {
+    form {
+        padding: 0.8rem;
+    }
+
+    form input,
+    form textarea,
+    form input[type="file"] {
+        font-size: 0.9rem;
+        padding: 8px 10px;
+    }
+
+    .btn-danger {
+        width: 100%;
+        padding: 9px;
+        font-size: 0.95rem;
+    }
+}
+
+@media (max-width: 380px) {
+    form {
+        padding: 0.6rem;
+    }
+
+    .btn-danger {
+        padding: 8px;
+        font-size: 0.9rem;
+    }
+}

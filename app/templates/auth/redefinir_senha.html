@@ -1,0 +1,69 @@
+{% extends "base.html" %}
+
+{% block titulo %}Redefinir Senha - CineVerse{% endblock titulo %}
+
+{% block css %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/auth/auth.css') }}">
+{% endblock css %}
+
+{% block conteudo %}
+<div class="container my-5 d-flex justify-content-center">
+    <div class="card bg-dark text-light shadow" style="width: 100%; max-width: 400px;">
+        <div class="card-body">
+            <h3 class="card-title text-center mb-4">Redefinir Senha</h3>
+
+            <p class="text-center small mb-4">
+                Defina a sua nova senha abaixo.
+            </p>
+
+            <form id="form-nova-senha">
+                <input type="hidden" name="token">
+
+                <div class="mb-3">
+                    <label for="senha" class="form-label">
+                        Nova Senha <span class="text-danger">*</span>
+                    </label>
+                    <div class="input-senha-container">
+                        <input type="password" name="senha"
+                            class="form-control bg-secondary text-light border-0 input-senha" id="senha"
+                            placeholder="********" required>
+                        <button type="button" class="btn-mudar-senha" id="mudar-senha">
+                            <img src="{{ url_for('static', filename='img/open_eye.svg') }}" alt="Mostrar senha"
+                                class="icone-senha">
+                        </button>
+                    </div>
+                </div>
+
+                <div class="mb-3">
+                    <label for="confirmar_senha" class="form-label">
+                        Confirmar Nova Senha <span class="text-danger">*</span>
+                    </label>
+                    <div class="input-senha-container">
+                        <input type="password" name="confirmar_senha"
+                            class="form-control bg-secondary text-light border-0 input-senha" id="confirmar_senha"
+                            placeholder="********" required>
+                        <button type="button" class="btn-mudar-senha" id="mudar-confirmar-senha">
+                            <img src="{{ url_for('static', filename='img/open_eye.svg') }}" alt="Mostrar senha"
+                                class="icone-senha">
+                        </button>
+                    </div>
+                </div>
+
+                <button type="submit" class="btn btn-danger w-100 mt-2">Salvar nova senha</button>
+            </form>
+
+            <div id="mensagem-nova-senha" class="text-center mt-3 mb-3"></div>
+
+            <p class="text-center mt-3 mb-0">
+                <a href="{{ url_for('main_bp.login') }}" class="text-decoration-none text-light small">
+                    Voltar ao login
+                </a>
+            </p>
+        </div>
+    </div>
+</div>
+{% endblock conteudo %}
+
+{% block scripts %}
+<script src="{{ url_for('static', filename='js/auth/redefinir_senha.js') }}"></script>
+{% endblock scripts %}

@@ -1,0 +1,90 @@
+h1 {
+    animation: fadeInUp 0.8s ease forwards;
+}
+
+#lista-filmes .card {
+    background-color: #1e1e1e;
+    border-radius: 12px;
+    overflow: visible;
+    position: relative;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+#lista-filmes .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(255, 76, 76, 0.4);
+}
+
+#lista-filmes .card img {
+    transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+#lista-filmes .card img:hover {
+    filter: brightness(1.1);
+}
+
+#lista-filmes .card-body h5 {
+    color: #ff4c4c;
+    transition: color 0.3s ease;
+}
+
+#lista-filmes .card-body h5:hover {
+    color: #ff7373;
+}
+
+#lista-filmes .card-body p {
+    color: #ccc;
+}
+
+#lista-filmes .btn-outline-danger {
+    border-color: #ff4c4c;
+    color: #ff4c4c;
+    transition: all 0.3s ease;
+}
+
+#lista-filmes .btn-outline-danger:hover {
+    background-color: #ff4c4c;
+    color: #fff;
+    transform: scale(1.05);
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@media (max-width: 992px) {
+    #lista-filmes .card img {
+        height: 350px;
+    }
+}
+
+@media (max-width: 768px) {
+    #lista-filmes .card img {
+        height: 300px;
+    }
+
+
+    .caixa-botoes {
+        gap: 0.5rem;
+    }
+
+    .icone {
+        font-size: 1.1rem;
+    }
+
+}
+
+@media (max-width: 480px) {
+    #lista-filmes .card img {
+        height: 250px;
+    }
+}

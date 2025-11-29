@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block titulo %}Página Inicial - CineVerse{% endblock titulo %}
+
+{% block css %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/filmes/top_10_filmes.css') }}">
+{% endblock css %}
+
+{% block conteudo %}
+<div class="container my-4">
+    <h1 class="mb-5 text-center fw-bold text-danger">Bem-vindo ao CineVerse!</h1>
+    <h2 class="mb-5 text-center fw-bold text-light">Filmes em Destaque no Momento</h2>
+    <div class="row" id="top10-filmes">
+
+    </div>
+</div>
+{% endblock conteudo %}
+
+{% block scripts %}
+<script src="{{ url_for('static', filename='js/filmes/listar_top10_filmes.js') }}"></script>
+{% endblock scripts %}

@@ -1,0 +1,176 @@
+[
+    {
+        "id": "e78f78eb-b81b-4b4a-9bd4-5f5556c3cce1",
+        "username": "Brandaorm01",
+        "email": "raulmb231@hotmail.com",
+        "senha": "1cf17bb42d4e2cee20374a80e22e3cc4e795c92604c033be7a79fb39b9191ac7",
+        "senhas": [
+            "1cf17bb42d4e2cee20374a80e22e3cc4e795c92604c033be7a79fb39b9191ac7"
+        ],
+        "imagem_url": "/static/uploads/image/82a0f08e-6068-4e65-b022-46a48b8d4e67.jpg",
+        "admin": true,
+        "principal": true,
+        "favoritos": [
+            299534,
+            671,
+            862,
+            155,
+            278,
+            497,
+            4232,
+            4234,
+            41446,
+            1159559,
+            934433,
+            810,
+            238
+        ],
+        "assistidos": [
+            299534,
+            120,
+            671,
+            278,
+            497,
+            76600,
+            155,
+            4232,
+            4233,
+            4234,
+            41446,
+            934433
+        ],
+        "assistir_mais_tarde": [
+            862,
+            808,
+            238,
+            83533,
+            1159559,
+            1084244,
+            950387,
+            810,
+            4247,
+            809
+        ],
+        "token_recuperacao": null,
+        "token_expira": null
+    },
+    {
+        "id": "fd325d55-9405-4878-8ae6-278e89a0dd37",
+        "username": "raulmb",
+        "email": "raulmb231@gmail.com",
+        "senha": "1cf17bb42d4e2cee20374a80e22e3cc4e795c92604c033be7a79fb39b9191ac7",
+        "senhas": [
+            "8e708e8440d4bf6c94e6aab67bb2814e60b9f0fe6697642fbe0dff6f9d74f71f",
+            "cfece7e00534fc4aab87f681db3a9f6d0a9b91a06a80977a939f79262c2895ef",
+            "ea76cb3c8bcbbfe7d8c98f3e8aecc60706675352b828b1c7da738154447fe8d3",
+            "690550bd89868c1e25b09e9f97ac8e8aa7d6129b806d314de948fffaba24b626",
+            "1cf17bb42d4e2cee20374a80e22e3cc4e795c92604c033be7a79fb39b9191ac7"
+        ],
+        "imagem_url": "/static/uploads/image/aec58fa5-075c-4008-9d2a-eaf23b23ee32.jpg",
+        "admin": true,
+        "principal": false,
+        "favoritos": [
+            5559,
+            671,
+            559,
+            558,
+            557,
+            474350,
+            346364,
+            238,
+            120,
+            119450,
+            61791,
+            281338,
+            808,
+            809,
+            810,
+            950387
+        ],
+        "assistidos": [
+            155,
+            671,
+            559,
+            558,
+            335360,
+            346364,
+            9739,
+            238,
+            119450,
+            281338,
+            808,
+            809,
+            810,
+            278,
+            299534
+        ],
+        "assistir_mais_tarde": [
+            5559,
+            1487,
+            557,
+            102899,
+            11631,
+            120,
+            61791,
+            24428,
+            1159559,
+            4247,
+            497,
+            1084244,
+            950387
+        ],
+        "token_recuperacao": null,
+        "token_expira": null
+    },
+    {
+        "id": "91bed19d-4ba0-4211-8b18-d933feb43cc6",
+        "username": "chuchu",
+        "email": "misaellima@gmail.com",
+        "senha": "5d8aafd1e6e237c9ba70567ea1e0bd342dcb48f81d3f6c53bbea112620e84254",
+        "senhas": [
+            "5d8aafd1e6e237c9ba70567ea1e0bd342dcb48f81d3f6c53bbea112620e84254"
+        ],
+        "imagem_url": "/static/uploads/image/5ae9de7d-5c7e-4f35-bac9-603a9ad1298e.jpg",
+        "admin": false,
+        "principal": false,
+        "favoritos": [],
+        "assistidos": [],
+        "assistir_mais_tarde": [],
+        "token_recuperacao": null,
+        "token_expira": null
+    },
+    {
+        "id": "99521dc9-6e35-46fa-9733-db9f4e3d4f2e",
+        "username": "gigrosa",
+        "email": "giovannavalentinarosa@gmail.com",
+        "senha": "6766ad37ada06ddc90f432f8d915f991dd0ec6559bfd8d400b380e4aef4e3ac1",
+        "senhas": [
+            "6766ad37ada06ddc90f432f8d915f991dd0ec6559bfd8d400b380e4aef4e3ac1"
+        ],
+        "imagem_url": "/static/uploads/image/93e9d9a7-ade9-4bd0-aade-8d7ad9b4686c.jpg",
+        "admin": false,
+        "principal": false,
+        "favoritos": [],
+        "assistidos": [],
+        "assistir_mais_tarde": [],
+        "token_recuperacao": null,
+        "token_expira": null
+    },
+    {
+        "id": "019e3e28-9463-4631-bf57-007729f3825b",
+        "username": "ruan",
+        "email": "ruanmolinabrandao@gmail.com",
+        "senha": "4ff6f61a4358f99f4fb7e2b188bb597cc9de6f2379390993f7b46f5366501544",
+        "senhas": [
+            "4ff6f61a4358f99f4fb7e2b188bb597cc9de6f2379390993f7b46f5366501544"
+        ],
+        "imagem_url": "/static/img/default_user.jpg",
+        "admin": false,
+        "principal": false,
+        "favoritos": [],
+        "assistidos": [],
+        "assistir_mais_tarde": [],
+        "token_recuperacao": null,
+        "token_expira": null
+    }
+]

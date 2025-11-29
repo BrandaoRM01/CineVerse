@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block titulo %}Editar Filmes - CineVerse{% endblock titulo %}
+
+{% block css %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/admin/editar_filme.css') }}">
+{% endblock css %}
+
+{% block conteudo %}
+<div class="container my-4">
+    <h1 class="mb-5 text-center fw-bold text-light">Editar Filmes</h1>
+
+    <form id="form-editar-filme">
+        <div id="campos-editar">
+
+        </div>
+
+        <div id="mensagem_editar" class="text-center mb-3"></div>
+        <button type="submit" class="btn btn-danger mt-3">Salvar</button>
+    </form>
+</div>
+
+{% endblock conteudo %}
+
+{% block scripts %}
+<script src="{{ url_for('static', filename='js/admin/editar_filme.js') }}"></script>
+{% endblock scripts %}

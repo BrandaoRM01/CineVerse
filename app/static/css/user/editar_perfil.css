@@ -1,0 +1,127 @@
+.card {
+    background: transparent;
+    backdrop-filter: blur(6px);
+    background-image: url("/static/img/background-card-admin.png");
+    background-size: cover;
+    background-position: center;
+    border: 2px solid rgba(255, 0, 0, 0.4);
+    border-radius: 14px;
+    padding: 15px;
+}
+
+.card-body {
+    border-radius: 12px;
+    padding: 25px;
+}
+
+.card-title {
+    font-weight: 700;
+}
+
+.form-control {
+    background: rgba(0, 0, 0, 0.4) !important;
+    color: #fff !important;
+    border: 1px solid rgba(255, 255, 255, 0.3) !important;
+}
+
+.form-control::placeholder {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.btn-danger {
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+@media (max-width: 768px) {
+
+    .card {
+        background-position: top;
+        padding: 12px;
+        border-width: 1.6px;
+    }
+
+    .card-body {
+        padding: 20px;
+    }
+
+    .card-title {
+        font-size: 1.15rem;
+        text-align: center;
+    }
+
+    .form-control {
+        font-size: 0.95rem;
+        padding: 9px 12px;
+    }
+
+    .btn-danger {
+        width: 100%;
+        padding: 10px;
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 500px) {
+
+    .card {
+        width: 100%;
+        background-position: top;
+        padding: 10px;
+        border-radius: 12px;
+    }
+
+    .card-body {
+        padding: 16px;
+    }
+
+    .form-control {
+        padding: 8px 10px;
+        font-size: 0.9rem;
+    }
+
+    .btn-danger {
+        padding: 9px;
+        font-size: 0.95rem;
+    }
+}
+
+@media (max-width: 380px) {
+
+    .card-body {
+        padding: 14px;
+    }
+
+    .card-title {
+        font-size: 1rem;
+    }
+
+    .btn-danger {
+        padding: 8px;
+        font-size: 0.9rem;
+    }
+}
+
+#img-perfil-previa {
+    display: block;
+    margin: 0 auto 20px auto;
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 2px solid #dc3545;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+#img-perfil-previa:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 10px rgba(220, 53, 69, 0.6);
+}
+
+@media (max-width: 576px) {
+    #img-perfil-previa {
+        width: 90px;
+        height: 90px;
+    }
+}

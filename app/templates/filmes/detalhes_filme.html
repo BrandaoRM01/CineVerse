@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+
+{% block titulo %}Detalhes do Filme - CineVerse{% endblock titulo %}
+
+{% block css %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/filmes/detalhes_filme.css') }}">
+{% endblock css %}
+
+{% block conteudo %}
+<div class="container my-5">
+    <div id="mensagem" class="alert text-center d-none"></div>
+
+    <div id="detalhes-filme" class="row justify-content-center align-items-start g-4">
+
+    </div>
+
+</div>
+{% endblock conteudo %}
+
+{% block scripts %}
+<script src="{{ url_for('static', filename='js/filmes/detalhes_filme.js') }}"></script>
+{% endblock scripts %}

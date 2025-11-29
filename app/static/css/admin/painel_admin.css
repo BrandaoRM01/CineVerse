@@ -1,0 +1,81 @@
+h1 {
+    color: #fff;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+    animation: fadeInUp 0.8s ease forwards;
+}
+
+.card h4 {
+    color: #ffffff;
+    transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+
+.card h4.text-danger:hover {
+    color: #ff7373;
+    text-shadow: 0 0 10px rgba(255, 115, 115, 0.6);
+}
+
+.card {
+    background: url('/static/img/background-card-admin.png') no-repeat center center fixed;
+    border-radius: 12px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.5);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-7px);
+    box-shadow: 0 12px 35px rgba(255, 76, 76, 0.4);
+}
+
+.card p {
+    color: #ccc;
+    line-height: 1.5;
+    transition: color 0.3s ease;
+}
+
+.card p:hover {
+    color: #fff;
+}
+
+.card a.btn-outline-danger {
+    border-color: #ff4c4c;
+    color: #ff4c4c;
+    font-weight: 500;
+    transition: all 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card a.btn-outline-danger:hover {
+    background-color: #ff4c4c;
+    color: #fff;
+    transform: scale(1.05);
+    box-shadow: 0 4px 15px rgba(255, 76, 76, 0.6);
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@media (max-width: 992px) {
+    .card {
+        padding: 2.5rem 1.5rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .card {
+        margin-bottom: 1.5rem;
+    }
+}
+
+@media (max-width: 576px) {
+    .card {
+        padding: 2rem 1rem;
+    }
+}

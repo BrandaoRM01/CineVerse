@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <title>CineVerse - Recuperação de Senha</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+        body {
+            background-color: #0b0b0b;
+            font-family: "Segoe UI", Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        .email-container {
+            max-width: 560px;
+            margin: 40px auto;
+            background: #121212;
+            border-radius: 16px;
+            padding-bottom: 10px;
+            box-shadow: 0 0 25px rgba(255, 0, 120, 0.28), 0 0 8px rgba(255, 0, 120, 0.4) inset;
+            border: 1px solid rgba(255, 0, 130, 0.35);
+            overflow: hidden;
+        }
+
+        .banner {
+            width: 100%;
+            display: block;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #ff0066, #ff3388);
+            padding: 26px;
+            text-align: center;
+        }
+
+        .header h1 {
+            color: #fff;
+            margin: 0;
+            font-weight: 900;
+            font-size: 28px;
+            text-transform: uppercase;
+            letter-spacing: 1.2px;
+            text-shadow: 0 0 8px rgba(255, 0, 120, 0.6);
+        }
+
+        .content {
+            padding: 32px;
+            color: #e7e7e7;
+            font-size: 16px;
+            line-height: 1.7;
+        }
+
+        a.botao {
+            display: inline-block;
+            background: linear-gradient(90deg, #ff0066, #ff3a8c);
+            color: white !important;
+            padding: 14px 26px;
+            border-radius: 12px;
+            font-weight: bold;
+            margin: 20px 0;
+            text-decoration: none;
+            letter-spacing: 0.4px;
+            transition: 0.25s;
+            box-shadow: 0 0 12px rgba(255, 0, 120, 0.55);
+        }
+
+        a.botao:hover {
+            background: linear-gradient(90deg, #ff1a75, #ff4d99);
+            transform: translateY(-2px);
+            box-shadow: 0 0 18px rgba(255, 0, 140, 0.75);
+        }
+
+        .small {
+            font-size: 14px;
+            color: #d5d5d5;
+            opacity: 0.85;
+        }
+
+        .small span {
+            color: #ff66aa;
+        }
+
+        .footer {
+            margin-top: 12px;
+            padding: 18px;
+            text-align: center;
+            font-size: 14px;
+            color: #999;
+            border-top: 1px solid #1e1e1e;
+        }
+
+        .footer p {
+            margin: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="email-container">
+
+        <div class="header">
+            <h1>Recuperação de Senha</h1>
+        </div>
+
+        <div class="content">
+            <p>Olá,</p>
+
+            <p>Recebemos uma solicitação para redefinir sua senha no <strong>CineVerse</strong>.</p>
+
+            <p>Para continuar, clique no botão abaixo:</p>
+
+            <div style="text-align:center;">
+                <a href="{{ link }}" class="botao">Redefinir Senha</a>
+            </div>
+
+            <p class="small">
+                Se preferir, copie e cole o link no navegador:<br>
+                <span>{{ link }}</span>
+            </p>
+
+            <p class="small">
+                Este link expira em <strong>15 minutos</strong>.
+            </p>
+
+            <p>
+                Se você não solicitou esta recuperação, pode ignorar este e-mail com segurança.
+            </p>
+        </div>
+
+        <div class="footer">
+            <p>CineVerse 🎬 — Sua plataforma de filmes</p>
+        </div>
+    </div>
+</body>
+
+</html>

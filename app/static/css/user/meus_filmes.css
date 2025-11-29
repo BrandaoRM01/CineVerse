@@ -1,0 +1,102 @@
+#filmes-favoritos .card,
+#filmes-interesse .card,
+#filmes-assistidos .card {
+    background-color: #1e1e1e;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+#filmes-favoritos .card:hover,
+#filmes-interesse .card:hover,
+#filmes-assistidos .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(255, 76, 76, 0.4);
+}
+
+.img-filme {
+    width: 100%;
+    border-radius: 8px;
+    transition: transform 0.3s ease, filter 0.3s ease, box-shadow 0.3s ease;
+    object-fit: cover;
+}
+
+.img-filme:hover {
+    filter: brightness(1.1);
+}
+
+.img-perfil {
+    width: 40px !important;
+    height: 40px !important;
+    border-radius: 50% !important;
+    object-fit: cover !important;
+    transition: transform 0.3s ease, box-shadow 0.3s ease !important;
+}
+
+.img-perfil:hover {
+    transform: scale(1.1) !important;
+    box-shadow: 0 0 10px #ff4c4c !important;
+}
+
+#filmes-favoritos .btn-outline-danger,
+#filmes-interesse .btn-outline-danger,
+#filmes-assistidos .btn-outline-danger {
+    border-color: #ff4c4c;
+    color: #ff4c4c;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+#filmes-favoritos .btn-outline-danger:hover,
+#filmes-interesse .btn-outline-danger:hover,
+#filmes-assistidos .btn-outline-danger:hover {
+    background-color: #ff4c4c;
+    color: #fff;
+    transform: scale(1.05);
+}
+
+#filmes-favoritos button.btn-outline-danger,
+#filmes-interesse button.btn-outline-danger,
+#filmes-assistidos button.btn-outline-danger {
+    width: 50%;
+    align-self: center;
+    margin-top: 0.5rem;
+}
+
+h1,
+h2 {
+    color: #fff;
+    text-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
+    animation: fadeInUp 0.8s ease forwards;
+}
+
+@media (max-width: 992px) {
+    .img-filme {
+        height: 350px;
+    }
+}
+
+@media (max-width: 768px) {
+    .img-filme {
+        height: 300px;
+    }
+}
+
+@media (max-width: 576px) {
+    .img-filme {
+        height: 250px;
+    }
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

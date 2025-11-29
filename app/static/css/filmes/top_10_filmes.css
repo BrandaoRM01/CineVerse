@@ -1,0 +1,174 @@
+h1,
+h2 {
+    animation: fadeInUp 0.8s ease forwards;
+}
+
+#top10-filmes .card {
+    background-color: #1e1e1e;
+    border-radius: 12px;
+    overflow: visible;
+    position: relative;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+#top10-filmes .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(255, 76, 76, 0.4);
+}
+
+#top10-filmes .card img {
+    transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+#top10-filmes .card img:hover {
+    filter: brightness(1.1);
+}
+
+#top10-filmes .card-body h5 {
+    color: #ff4c4c;
+    transition: color 0.3s ease;
+}
+
+#top10-filmes .card-body h5:hover {
+    color: #ff7373;
+}
+
+#top10-filmes .card-body p {
+    color: #ccc;
+}
+
+#top10-filmes .btn-outline-danger {
+    border-color: #ff4c4c;
+    color: #ff4c4c;
+    transition: all 0.3s ease;
+}
+
+#top10-filmes .btn-outline-danger:hover {
+    background-color: #ff4c4c;
+    color: #fff;
+    transform: scale(1.05);
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@media (max-width: 992px) {
+    #top10-filmes .card img {
+        height: 350px;
+    }
+}
+
+@media (max-width: 768px) {
+    #top10-filmes .card img {
+        height: 300px;
+    }
+
+    .caixa-botoes {
+        gap: 0.5rem;
+    }
+
+    .icone {
+        font-size: 1.1rem;
+    }
+
+}
+
+@media (max-width: 480px) {
+    #top10-filmes .card img {
+        height: 250px;
+    }
+}
+
+#top10-filmes .card>.position-absolute:not(.top1):not(.top2):not(.top3) {
+    background-color: rgba(255, 76, 76, 0.85);
+    color: #000;
+    font-weight: bold;
+    font-size: 1.2rem;
+    padding: 0.3rem 0.6rem;
+    border-radius: 0 0 8px 8px;
+    text-align: center;
+    box-shadow: 0 0 8px #ff4c4c, 0 0 16px #ff4c4c;
+    animation: neonPulse 1.5s infinite alternate;
+}
+
+#top10-filmes .card>.position-absolute.top1 {
+    background-color: #c0a300;
+    color: #000;
+    box-shadow: 0 0 8px #FFD700, 0 0 16px #FFD700;
+    animation: neonPulseTop1 1.5s infinite alternate;
+}
+
+#top10-filmes .card>.position-absolute.top2 {
+    background-color: #b0b0b0;
+    color: #000;
+    box-shadow: 0 0 8px #C0C0C0, 0 0 16px #C0C0C0;
+    animation: neonPulseTop2 1.5s infinite alternate;
+}
+
+#top10-filmes .card>.position-absolute.top3 {
+    background-color: #cb7723;
+    color: #fff;
+    box-shadow: 0 0 8px #CD7F32, 0 0 16px #CD7F32;
+    animation: neonPulseTop3 1.5s infinite alternate;
+}
+
+@keyframes neonPulseTop1 {
+
+    0%,
+    100% {
+        text-shadow: 0 0 4px #FFD700, 0 0 8px #FFD700;
+    }
+
+    50% {
+        text-shadow: 0 0 10px #FFD700, 0 0 20px #FFD700;
+    }
+}
+
+@keyframes neonPulseTop2 {
+
+    0%,
+    100% {
+        text-shadow: 0 0 4px #C0C0C0, 0 0 8px #C0C0C0;
+    }
+
+    50% {
+        text-shadow: 0 0 10px #C0C0C0, 0 0 20px #C0C0C0;
+    }
+}
+
+@keyframes neonPulseTop3 {
+
+    0%,
+    100% {
+        text-shadow: 0 0 4px #CD7F32, 0 0 8px #CD7F32;
+    }
+
+    50% {
+        text-shadow: 0 0 10px #CD7F32, 0 0 20px #CD7F32;
+    }
+}
+
+
+@keyframes neonPulse {
+    0% {
+        text-shadow: 0 0 4px #ff4c4c, 0 0 8px #ff4c4c;
+    }
+
+    50% {
+        text-shadow: 0 0 10px #ff4c4c, 0 0 20px #ff4c4c;
+    }
+
+    100% {
+        text-shadow: 0 0 6px #ff4c4c, 0 0 12px #ff4c4c;
+    }
+}

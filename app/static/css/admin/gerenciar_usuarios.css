@@ -1,0 +1,93 @@
+h1 {
+    color: #fff;
+    text-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
+    animation: fadeInUp 0.8s ease forwards;
+}
+
+table {
+    background-color: #1e1e1e;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.5);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+table:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 12px 35px rgba(0, 0, 0, 0.826);
+}
+
+th {
+    background-color: #343a40;
+    color: #fff;
+    text-align: center;
+}
+
+td {
+    color: #ccc;
+    vertical-align: middle;
+    text-align: center;
+}
+
+td img {
+    border-radius: 8px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+td img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 20px rgba(255, 76, 76, 0.5);
+}
+
+.btn-outline-danger,
+.btn-outline-warning,
+.btn-outline-primary {
+    font-weight: 500;
+    transition: all 0.3s ease, box-shadow 0.3s ease;
+}
+
+.btn-outline-danger:hover {
+    background-color: #ff4c4c;
+    color: #fff;
+    transform: scale(1.05);
+    box-shadow: 0 4px 15px rgba(255, 76, 76, 0.6);
+}
+
+.btn-outline-warning:hover {
+    background-color: #ffc107;
+    color: #000;
+    transform: scale(1.05);
+    box-shadow: 0 4px 15px rgba(255, 193, 7, 0.6);
+}
+
+.btn-outline-primary:hover {
+    background-color: #0d6efd;
+    color: #fff;
+    transform: scale(1.05);
+    box-shadow: 0 4px 15px rgba(13, 110, 253, 0.6);
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@media (max-width: 768px) {
+    table {
+        font-size: 0.9rem;
+    }
+
+
+    td img {
+        width: 40px;
+        height: 40px;
+    }
+
+}

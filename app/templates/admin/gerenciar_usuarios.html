@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block titulo %}Gerenciar Usuários - CineVerse{% endblock titulo %}
+
+{% block css %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/admin/gerenciar_usuarios.css') }}">
+{% endblock css %}
+
+{% block conteudo %}
+
+<h1 class="mb-5 text-center fw-bold text-light">Gerenciar Usuários</h1>
+
+<div id="usuarios-container">
+
+</div>
+
+{% endblock conteudo %}
+
+{% block scripts %}
+<script src="{{ url_for('static', filename='js/admin/gerenciar_user.js') }}"></script>
+{% endblock scripts %}

@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block titulo %}Filmes - CineVerse{% endblock titulo %}
+
+{% block css %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/filmes/filmes.css') }}">
+{% endblock css %}
+
+{% block conteudo %}
+<div class="container my-4">
+    <h1 class="mb-5 text-center fw-bold text-light">Todos os Filmes</h1>
+
+    <div class="row" id="lista-filmes">
+
+    </div>
+</div>
+{% endblock conteudo %}
+
+{% block scripts %}
+<script src="{{ url_for('static', filename='js/filmes/listar_filmes.js') }}"></script>
+{% endblock scripts %}

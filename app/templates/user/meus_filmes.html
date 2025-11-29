@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block titulo %}Meus Filmes - CineVerse{% endblock titulo %}
+
+{% block css %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/user/meus_filmes.css') }}">
+{% endblock css %}
+
+{% block conteudo %}
+<div class="container my-4">
+    <h1 class="mb-5 text-center fw-bold text-light">Meus Filmes</h1>
+    <br>
+
+    <h2 class="mb-3 text-center fw-bold text-light">Favoritos</h2>
+    <div class="row mb-5" id="filmes-favoritos">
+
+    </div>
+    <br>
+
+    <h2 class="mb-3 text-center fw-bold text-light">Assistir Mais Tarde</h2>
+    <div class="row mb-5" id="filmes-interesse">
+
+    </div>
+    <br>
+
+    <h2 class="mb-3 text-center fw-bold text-light">Assistidos</h2>
+    <div class="row" id="filmes-assistidos">
+
+    </div>
+    <br>
+</div>
+{% endblock conteudo %}
+
+{% block scripts %}
+<script src="{{ url_for('static', filename='js/user/listar_filmes_user.js') }}"></script>
+{% endblock scripts %}

@@ -1,0 +1,956 @@
+[
+    {
+        "tmdb_id": 9739,
+        "titulo": "O Demolidor",
+        "descricao": "O policial John Spartan e o violento bandido Simon Phoenix s\u00e3o condenados a um encarceramento criog\u00eanico conhecido como CryoPrison. Quando Spartan \u00e9 finalmente descongelado 36 anos depois, j\u00e1 \u00e9 2032 e Los Angeles \u00e9 agora uma utopia pacifista chamada San Angeles (jun\u00e7\u00e3o de Los Angeles com San Francisco). Por\u00e9m com Phoenix novamente \u00e0 solta, Spartan deve colaborar com uma policial, Lenina, para apreender o assassino.",
+        "data_lancamento": "1993-10-08",
+        "avaliacao": 6.748,
+        "poster_path": "/2BjAYQNwmdIZF6XQQ2rLOrios1Q.jpg",
+        "generos": [
+            "Crime",
+            "A\u00e7\u00e3o",
+            "Fic\u00e7\u00e3o cient\u00edfica"
+        ],
+        "diretor": "Marco Brambilla",
+        "atores_principais": [
+            "Sylvester Stallone",
+            "Wesley Snipes",
+            "Sandra Bullock",
+            "Nigel Hawthorne",
+            "Benjamin Bratt"
+        ],
+        "trailer_url": null
+    },
+    {
+        "tmdb_id": 335360,
+        "titulo": "My Little Pony: O Filme",
+        "descricao": "Quando uma for\u00e7a obscura amea\u00e7a Ponyville e a Mane 6, os pequenos p\u00f4neis embarcar em uma viagem at\u00e9 o fim de Equestria para salvar sua amada casa. L\u00e1 eles conhecem novos amigos e passam por desafios perigosos ao longo do caminho.",
+        "data_lancamento": "2017-10-05",
+        "avaliacao": 7.3,
+        "poster_path": "/kaZPzYhSwf7sUYeX2h1K4BcgCNa.jpg",
+        "generos": [
+            "Fam\u00edlia",
+            "Anima\u00e7\u00e3o",
+            "Aventura",
+            "Fantasia"
+        ],
+        "diretor": "Jayson Thiessen",
+        "atores_principais": [
+            "Tara Strong",
+            "Ashleigh Ball",
+            "Andrea Libman",
+            "Tabitha St. Germain",
+            "Cathy Weseluck"
+        ],
+        "trailer_url": null
+    },
+    {
+        "tmdb_id": 557,
+        "titulo": "Homem-Aranha",
+        "descricao": "Peter Parker \u00e9 um jovem estudioso que vive com seus tios, Ben e May, desde que seus pais faleceram. Peter tem dificuldade em se relacionar com seus colegas, por ser t\u00edmido e por eles o considerarem um nerd. At\u00e9 que, em uma demonstra\u00e7\u00e3o cient\u00edfica, um acidente inesperado faz com que uma aranha modificada geneticamente pique Peter. A partir de ent\u00e3o seu corpo \u00e9 quimicamente alterado pela picada da aranha.",
+        "data_lancamento": "2002-05-01",
+        "avaliacao": 7.316,
+        "poster_path": "/2WIwz0qJpnVAiofTAhrmhbKxuvE.jpg",
+        "generos": [
+            "A\u00e7\u00e3o",
+            "Fic\u00e7\u00e3o cient\u00edfica"
+        ],
+        "diretor": "Sam Raimi",
+        "atores_principais": [
+            "Tobey Maguire",
+            "Willem Dafoe",
+            "Kirsten Dunst",
+            "James Franco",
+            "Cliff Robertson"
+        ],
+        "trailer_url": null
+    },
+    {
+        "tmdb_id": 862,
+        "titulo": "Toy Story: Um Mundo de Aventuras",
+        "descricao": "Buzz Lightyear \u00e9 o novo e sofisticado astronauta de brinquedo do garoto Andy. Buzz n\u00e3o imaginava que encontraria um rival: Woody, um cowboy de brinquedo que, dominado pelo ci\u00fame, acredita ter perdido um lugar precioso no cora\u00e7\u00e3o do seu dono. Os dois brinquedos vivem brigando at\u00e9 que v\u00e3o parar nas garras do vizinho, um verdadeiro destruidor de brinquedos. Agora, mais do que nunca, Buzz e Woody precisam precisam se unir para escapar do perigo. Com a ajuda de seus amigos da caixa de brinquedos, eles v\u00e3o viver uma incr\u00edvel aventura.",
+        "data_lancamento": "1995-11-22",
+        "avaliacao": 7.97,
+        "poster_path": "/6AafgfifXkFS4g2xGJZIwsPQK6P.jpg",
+        "generos": [
+            "Fam\u00edlia",
+            "Com\u00e9dia",
+            "Anima\u00e7\u00e3o",
+            "Aventura"
+        ],
+        "diretor": "John Lasseter",
+        "atores_principais": [
+            "Tom Hanks",
+            "Tim Allen",
+            "Don Rickles",
+            "Jim Varney",
+            "Wallace Shawn"
+        ],
+        "trailer_url": null
+    },
+    {
+        "tmdb_id": 950387,
+        "titulo": "Um Filme Minecraft",
+        "descricao": "Quatro desajustados s\u00e3o subitamente puxados por um portal misterioso ao Mundo Superior: um para\u00edso bizarro e c\u00fabico que vive na base da imagina\u00e7\u00e3o. Para voltar para casa, eles embarcam em uma jornada m\u00e1gica com um artes\u00e3o experiente e inusitado, Steve. Juntos, sua aventura desafiar\u00e1 todos os cinco a serem ousados e se reconectarem com as qualidades que tornam cada um deles singularmente criativo.",
+        "data_lancamento": "2025-03-31",
+        "avaliacao": 6.354,
+        "poster_path": "/4VtkIaj76TpQNfhDHXQDdT9uBN5.jpg",
+        "generos": [
+            "Fam\u00edlia",
+            "Fantasia",
+            "Com\u00e9dia",
+            "Aventura",
+            "A\u00e7\u00e3o"
+        ],
+        "diretor": "Jared Hess",
+        "atores_principais": [
+            "Jason Momoa",
+            "Jack Black",
+            "Sebastian Eugene Hansen",
+            "Emma Myers",
+            "Danielle Brooks"
+        ],
+        "trailer_url": "https://www.youtube.com/watch?v=q6bK0zWpqiI"
+    },
+    {
+        "tmdb_id": 120,
+        "titulo": "O Senhor dos An\u00e9is: A Sociedade do Anel",
+        "descricao": "Em uma terra fant\u00e1stica e \u00fanica, um hobbit recebe de presente de seu tio um anel m\u00e1gico e maligno que precisa ser destru\u00eddo antes que caia nas m\u00e3os do mal. Para isso, o hobbit Frodo tem um caminho \u00e1rduo pela frente, onde encontra perigo, medo e seres bizarros. Ao seu lado para o cumprimento desta jornada, ele aos poucos pode contar com outros hobbits, um elfo, um an\u00e3o, dois humanos e um mago, totalizando nove pessoas que formam a Sociedade do Anel.",
+        "data_lancamento": "2001-12-18",
+        "avaliacao": "8.426",
+        "poster_path": "/p9tiZkjs5A1XdD3m3E15ij9IxCV.jpg",
+        "generos": [
+            "Aventura",
+            "Fantasia",
+            "A\u00e7\u00e3o"
+        ],
+        "diretor": "Peter Jackson",
+        "atores_principais": [
+            "Elijah Wood",
+            "Ian McKellen",
+            "Viggo Mortensen",
+            "Sean Astin",
+            "Ian Holm"
+        ],
+        "trailer_url": "https://www.youtube.com/watch?v=0i86oM1nHjM"
+    },
+    {
+        "tmdb_id": 4232,
+        "titulo": "P\u00e2nico",
+        "descricao": "Ap\u00f3s uma s\u00e9rie de mortes misteriosas, um grupo de amigos s\u00e3o amea\u00e7ados por um assassino. Em uma mistura de emo\u00e7\u00f5es fortes e muitos sustos, aqui a \u00fanica coisa que se pode ter certeza \u00e9 que todos s\u00e3o v\u00edtimas e todos s\u00e3o suspeitos.",
+        "data_lancamento": "1996-12-20",
+        "avaliacao": 7.4,
+        "poster_path": "/cJj2gYzkPFSqYGGOhfLgeANlXkB.jpg",
+        "generos": [
+            "Crime",
+            "Terror",
+            "Mist\u00e9rio"
+        ],
+        "diretor": "Wes Craven",
+        "atores_principais": [
+            "David Arquette",
+            "Neve Campbell",
+            "Courteney Cox",
+            "Matthew Lillard",
+            "Rose McGowan"
+        ],
+        "trailer_url": null
+    },
+    {
+        "tmdb_id": 346364,
+        "titulo": "It: A Coisa",
+        "descricao": "Na cidade de Derry, no Maine, sete jovens se juntam para combater uma criatura sobrenatural que est\u00e1 assombrando a sua cidade por s\u00e9culos. Chamado de Pennywise \u2013 O Palha\u00e7o Dan\u00e7arino, a Coisa \u00e9 um monstro de for\u00e7a absoluta que toma a forma dos medos mais horrorosos das pessoas. Amea\u00e7ados por seus piores pesadelos, a \u00fanica maneira dos jovens amigos sobreviverem \u00e0 Coisa \u00e9 se continuarem juntos.",
+        "data_lancamento": "2017-09-06",
+        "avaliacao": "7.238",
+        "poster_path": "/uYxz0lIiNgErrPhQbSjUdwYxtFc.jpg",
+        "generos": [
+            "Terror",
+            "Thriller"
+        ],
+        "diretor": "Andy Muschietti",
+        "atores_principais": [
+            "Bill Skarsg\u00e5rd",
+            "Jaeden Martell",
+            "Sophia Lillis",
+            "Jeremy Ray Taylor",
+            "Finn Wolfhard"
+        ],
+        "trailer_url": "https://www.youtube.com/watch?v=UllUiLEXB_g"
+    },
+    {
+        "tmdb_id": 24428,
+        "titulo": "Os Vingadores: The Avengers",
+        "descricao": "Loki, o irm\u00e3o de Thor, ganha acesso ao poder ilimitado do cubo c\u00f3smico ao roub\u00e1-lo de dentro das instala\u00e7\u00f5es da S.H.I.E.L.D. Nick Fury, o diretor desta ag\u00eancia internacional que mant\u00e9m a paz, logo re\u00fane os \u00fanicos super-her\u00f3is que ser\u00e3o capazes de defender a Terra de amea\u00e7as sem precedentes. Homem de Ferro, Capit\u00e3o Am\u00e9rica, Hulk, Thor, Vi\u00fava Negra e Gavi\u00e3o Arqueiro formam o time dos sonhos de Fury, mas eles precisam aprender a colocar os egos de lado e agir como um grupo em prol da humanidade.",
+        "data_lancamento": "2012-04-25",
+        "avaliacao": 7.845,
+        "poster_path": "/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg",
+        "generos": [
+            "Fic\u00e7\u00e3o cient\u00edfica",
+            "A\u00e7\u00e3o",
+            "Aventura"
+        ],
+        "diretor": "Joss Whedon",
+        "atores_principais": [
+            "Robert Downey Jr.",
+            "Chris Evans",
+            "Mark Ruffalo",
+            "Chris Hemsworth",
+            "Scarlett Johansson"
+        ],
+        "trailer_url": "https://www.youtube.com/watch?v=QDvbNyl5xnA"
+    },
+    {
+        "tmdb_id": 299534,
+        "titulo": "Vingadores: Ultimato",
+        "descricao": "Ap\u00f3s os eventos devastadores de \"Vingadores: Guerra Infinita\", o universo est\u00e1 em ru\u00ednas devido aos esfor\u00e7os do Tit\u00e3 Louco, Thanos. Com a ajuda de aliados remanescentes, os Vingadores devem se reunir mais uma vez a fim de desfazer as a\u00e7\u00f5es de Thanos e restaurar a ordem no universo de uma vez por todas, n\u00e3o importando as consequ\u00eancias.",
+        "data_lancamento": "2019-04-24",
+        "avaliacao": 8.237,
+        "poster_path": "/9fRX8UKlIW7Lb9GqNsJVakWWFCi.jpg",
+        "generos": [
+            "Aventura",
+            "Fic\u00e7\u00e3o cient\u00edfica",
+            "A\u00e7\u00e3o"
+        ],
+        "diretor": "Anthony Russo",
+        "atores_principais": [
+            "Robert Downey Jr.",
+            "Chris Evans",
+            "Mark Ruffalo",
+            "Chris Hemsworth",
+            "Scarlett Johansson"
+        ],
+        "trailer_url": "https://www.youtube.com/watch?v=PgrmbRID0eY"
+    },
+    {
+        "tmdb_id": 11631,
+        "titulo": "Mamma Mia!",
+        "descricao": "1999, na ilha grega de Kalokairi. Sophie est\u00e1 prestes a se casar e, sem saber quem \u00e9 seu pai, envia convites para Sam Carmichael, Harry Bright e Bill Anderson. Eles v\u00eam de diferentes partes do mundo, dispostos a reencontrar a mulher de suas vidas: Donna, m\u00e3e de Sophie. Ao chegarem Donna \u00e9 surpreendida, tendo que inventar desculpas para n\u00e3o revelar quem \u00e9 o pai de Sophie.",
+        "data_lancamento": "2008-07-03",
+        "avaliacao": 6.979,
+        "poster_path": "/xb3SnxHBLYUjpYU78C0qv0RLLtd.jpg",
+        "generos": [
+            "Com\u00e9dia",
+            "Romance"
+        ],
+        "diretor": "Phyllida Lloyd",
+        "atores_principais": [
+            "Meryl Streep",
+            "Amanda Seyfried",
+            "Pierce Brosnan",
+            "Colin Firth",
+            "Stellan Skarsg\u00e5rd"
+        ],
+        "trailer_url": null
+    },
+    {
+        "tmdb_id": 474350,
+        "titulo": "IT: Cap\u00edtulo Dois",
+        "descricao": "Vinte e sete anos ap\u00f3s o Clube dos Ot\u00e1rios derrotar Pennywise, It est\u00e1 de volta. Agora adultos Os Ot\u00e1rios seguiram com suas vidas, mas com os recentes desaparecimentos em Derry, Mike resolve reunir o grupo novamente. Perturbados pelo passado, eles precisam vencer seus medos para destruir Pennywise, que est\u00e1 ainda mais perigoso, de uma vez por todas.",
+        "data_lancamento": "2019-09-04",
+        "avaliacao": 6.84,
+        "poster_path": "/skO9fdw6bKrAbZUsHBhtgn6VTEI.jpg",
+        "generos": [
+            "Terror",
+            "Thriller"
+        ],
+        "diretor": "Andy Muschietti",
+        "atores_principais": [
+            "Bill Skarsg\u00e5rd",
+            "James McAvoy",
+            "Jessica Chastain",
+            "Bill Hader",
+            "Isaiah Mustafa"
+        ],
+        "trailer_url": "https://www.youtube.com/watch?v=9hTiR6qD3Ow"
+    },
+    {
+        "tmdb_id": 4233,
+        "titulo": "P\u00e2nico 2",
+        "descricao": "Dois anos ap\u00f3s o massacre em Woodsboro, Sidney Prescott e Randy Meeks est\u00e3o tentando refazer suas vidas em uma nova cidade. Estudando no col\u00e9gio de Windsor, eles v\u00e3o lidar com uma nova onda de assassinatos quando o terr\u00edvel psicopata retorna para assombr\u00e1-los nas v\u00e9speras do lan\u00e7amento do filme baseado nos seus crimes.",
+        "data_lancamento": "1997-12-12",
+        "avaliacao": 6.505,
+        "poster_path": "/8Oxm5IS9CsXulLXPUk0ddU6nRjk.jpg",
+        "generos": [
+            "Terror",
+            "Mist\u00e9rio"
+        ],
+        "diretor": "Wes Craven",
+        "atores_principais": [
+            "Neve Campbell",
+            "Courteney Cox",
+            "David Arquette",
+            "Jerry O'Connell",
+            "Timothy Olyphant"
+        ],
+        "trailer_url": null
+    },
+    {
+        "tmdb_id": 4234,
+        "titulo": "P\u00e2nico 3",
+        "descricao": "Assassinatos levam uma jovem, um rep\u00f3rter e um ex-policial ao set de um filme de horror inspirado por acontecimentos aterrorizantes aos quais eles sobreviveram.",
+        "data_lancamento": "2000-02-04",
+        "avaliacao": 5.999,
+        "poster_path": "/dCp1c7hf16kJtVJ0BLoyDhLqRVG.jpg",
+        "generos": [
+            "Terror",
+            "Mist\u00e9rio"
+        ],
+        "diretor": "Wes Craven",
+        "atores_principais": [
+            "David Arquette",
+            "Neve Campbell",
+            "Courteney Cox",
+            "Patrick Dempsey",
+            "Scott Foley"
+        ],
+        "trailer_url": null
+    },
+    {
+        "tmdb_id": 41446,
+        "titulo": "P\u00e2nico 4",
+        "descricao": "Faz muitos anos que o assassino Ghostface deixou um rastro mortal pela cidade de Woodsboro. A fim de superar o trauma desses terr\u00edveis acontecimentos, Sidney Prescott escreveu um livro de auto-ajuda. Ela retorna \u00e0 Woodsboro para lan\u00e7ar seu livro e reencontra os velhos amigos Gale Weathers e o Xerife Dewey. No entanto, a chegada de Sidney tamb\u00e9m provoca o retorno de Ghostface, colocando Sidney e todos que ama em perigo.",
+        "data_lancamento": "2011-04-13",
+        "avaliacao": 6.5,
+        "poster_path": "/qqqE8jR2bzZldtW5lJwKhHMxkx0.jpg",
+        "generos": [
+            "Terror",
+            "Mist\u00e9rio"
+        ],
+        "diretor": "Wes Craven",
+        "atores_principais": [
+            "David Arquette",
+            "Neve Campbell",
+            "Courteney Cox",
+            "Emma Roberts",
+            "Hayden Panettiere"
+        ],
+        "trailer_url": null
+    },
+    {
+        "tmdb_id": 934433,
+        "titulo": "P\u00e2nico VI",
+        "descricao": "Sam, Tara, Chad e Mindy, os quatro sobreviventes do massacre realizado pelo Ghostface, decidem deixar Woodsboro para tr\u00e1s em busca de um novo come\u00e7o em uma cidade diferente. Mas n\u00e3o demora muito para eles se tornarem alvo de um novo serial killer mascarado.",
+        "data_lancamento": "2023-03-08",
+        "avaliacao": 7.0,
+        "poster_path": "/vSCqFktU5FzjtkW5XRlp8JndRdV.jpg",
+        "generos": [
+            "Terror",
+            "Crime",
+            "Thriller"
+        ],
+        "diretor": "Matt Bettinelli-Olpin",
+        "atores_principais": [
+            "Melissa Barrera",
+            "Jenna Ortega",
+            "Jasmin Savoy Brown",
+            "Mason Gooding",
+            "Jack Champion"
+        ],
+        "trailer_url": "https://www.youtube.com/watch?v=QOgdGhA9gos"
+    },
+    {
+        "tmdb_id": 13207,
+        "titulo": "Sexta-Feira 13",
+        "descricao": "Em Crystal Lake, o que come\u00e7ou como o melhor fim semana de suas vidas rapidamente poderia se tornar o \u00faltimo. Um grupo de adolescentes, a quil\u00f4metros de dist\u00e2ncia da civiliza\u00e7\u00e3o est\u00e3o prestes a descobrir, um a um, que o lago tem um sangrento passado... e est\u00e1 pronto para vingan\u00e7a.",
+        "data_lancamento": "2009-02-11",
+        "avaliacao": 5.8,
+        "poster_path": "/hRxM1odI2US2IpiAAN2XxGDHc9D.jpg",
+        "generos": [
+            "Terror",
+            "Thriller"
+        ],
+        "diretor": "Marcus Nispel",
+        "atores_principais": [
+            "Travis Van Winkle",
+            "Ben Feldman",
+            "Aaron Yoo",
+            "Richard Burgi",
+            "Nick Mennell"
+        ],
+        "trailer_url": "https://www.youtube.com/watch?v=GlaD7Tc1JUM"
+    },
+    {
+        "tmdb_id": 102899,
+        "titulo": "Homem-Formiga",
+        "descricao": "Dr. Hank Pym, o inventor da f\u00f3rmula/traje que permite o encolhimento, precisa impedir que seu ex-pupilo Darren Cross consiga replicar o feito e vender a tecnologia para uma organiza\u00e7\u00e3o do mal. Depois de sair da cadeia, o trambiqueiro Scott Lang est\u00e1 disposto a reconquistar o respeito da ex-mulher, Maggie e, principalmente, da filha. Com dificuldades de arrumar um emprego honesto, ele aceita praticar um \u00faltimo golpe. O que ele n\u00e3o sabia era que tudo n\u00e3o passava de um plano do Dr. Pym que, depois de anos observando o h\u00e1bil ladr\u00e3o, o escolhe para vestir o traje do Homem-Formiga.",
+        "data_lancamento": "2015-07-14",
+        "avaliacao": 7.067,
+        "poster_path": "/pPmKIWhrpdttdRI5VwfiAIQZ9L2.jpg",
+        "generos": [
+            "Fic\u00e7\u00e3o cient\u00edfica",
+            "A\u00e7\u00e3o",
+            "Aventura"
+        ],
+        "diretor": "Peyton Reed",
+        "atores_principais": [
+            "Paul Rudd",
+            "Michael Douglas",
+            "Evangeline Lilly",
+            "Corey Stoll",
+            "Bobby Cannavale"
+        ],
+        "trailer_url": "https://www.youtube.com/watch?v=wITUolzfkwI"
+    },
+    {
+        "tmdb_id": 671,
+        "titulo": "Harry Potter e a Pedra Filosofal",
+        "descricao": "Harry Potter \u00e9 um garoto \u00f3rf\u00e3o que vive infeliz com seus tios, os Dursley. Em seu anivers\u00e1rio de 11 anos ele recebe uma carta que mudar\u00e1 sua vida: um convite para ingressar em Hogwarts.",
+        "data_lancamento": "2001-11-16",
+        "avaliacao": 7.9,
+        "poster_path": "/4rtsbE9aQ1qw4gv7yYwaNYfWFoS.jpg",
+        "generos": [
+            "Aventura",
+            "Fantasia"
+        ],
+        "diretor": "Chris Columbus",
+        "atores_principais": [
+            "Daniel Radcliffe",
+            "Rupert Grint",
+            "Emma Watson",
+            "Richard Harris",
+            "Tom Felton"
+        ],
+        "trailer_url": "https://www.youtube.com/watch?v=9fIObnIGMlI"
+    },
+    {
+        "tmdb_id": 155,
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "descricao": "Ap\u00f3s dois anos desde o surgimento do Batman, os criminosos de Gotham City t\u00eam muito o que temer. Com a ajuda do tenente James Gordon e do promotor p\u00fablico Harvey Dent, Batman luta contra o crime organizado. Acuados com o combate, os chefes do crime aceitam a proposta feita pelo Coringa e o contratam para combater o Homem-Morcego.",
+        "data_lancamento": "2008-07-16",
+        "avaliacao": "8.524",
+        "poster_path": "/4lj1ikfsSmMZNyfdi8R8Tv5tsgb.jpg",
+        "generos": [
+            "Drama",
+            "A\u00e7\u00e3o",
+            "Crime",
+            "Thriller"
+        ],
+        "diretor": "Christopher Nolan",
+        "atores_principais": [
+            "Christian Bale",
+            "Heath Ledger",
+            "Aaron Eckhart",
+            "Michael Caine",
+            "Maggie Gyllenhaal"
+        ],
+        "trailer_url": "https://www.youtube.com/watch?v=9HPaJQAIx6w",
+        "poster_custom": "/static/uploads/poster/5009406e-5dd0-488e-8ee0-1b5004eafb47.jpg"
+    },
+    {
+        "tmdb_id": 278,
+        "titulo": "Um Sonho de Liberdade",
+        "descricao": "Em 1946, Andy Dufresne, um banqueiro jovem e bem sucedido, tem a sua vida radicalmente modificada ao ser condenado por um crime que nunca cometeu, o homic\u00eddio de sua esposa e do amante dela. Ele \u00e9 mandado para uma pris\u00e3o que \u00e9 o pesadelo de qualquer detento, a Penitenci\u00e1ria Estadual de Shawshank, no Maine. L\u00e1 ele ir\u00e1 cumprir a pena perp\u00e9tua. Andy logo ser\u00e1 apresentado a Warden Norton, o corrupto e cruel agente penitenci\u00e1rio, que usa a B\u00edblia como arma de controle e ao Capit\u00e3o Byron Hadley que trata os internos como animais. Andy faz amizade com Ellis Boyd Redding, um prisioneiro que cumpre pena h\u00e1 20 anos e controla o mercado negro da institui\u00e7\u00e3o.",
+        "data_lancamento": "1994-09-23",
+        "avaliacao": 8.711,
+        "poster_path": "/umX3lBhHoTV7Lsci140Yr8VpXyN.jpg",
+        "generos": [
+            "Drama",
+            "Crime"
+        ],
+        "diretor": "Frank Darabont",
+        "atores_principais": [
+            "Tim Robbins",
+            "Morgan Freeman",
+            "Bob Gunton",
+            "William Sadler",
+            "Clancy Brown"
+        ],
+        "trailer_url": "https://www.youtube.com/watch?v=Y22NgkErOAk"
+    },
+    {
+        "tmdb_id": 497,
+        "titulo": "\u00c0 Espera de um Milagre",
+        "descricao": "Milagres acontecem em lugares inesperados, mesmo no bloco de celas para o corredor da morte na Penitenci\u00e1ria Cold Mountain. L\u00e1, John Coffey, um gentil e gigante prisioneiro com poderes sobrenaturais, traz um senso de esp\u00edrito e humanidade aos seus guardas e colegas de cela.",
+        "data_lancamento": "1999-12-10",
+        "avaliacao": 8.503,
+        "poster_path": "/14hEqW67IiHlKpzKMLUXyktzZIV.jpg",
+        "generos": [
+            "Fantasia",
+            "Drama",
+            "Crime"
+        ],
+        "diretor": "Frank Darabont",
+        "atores_principais": [
+            "Tom Hanks",
+            "David Morse",
+            "Bonnie Hunt",
+            "Michael Clarke Duncan",
+            "James Cromwell"
+        ],
+        "trailer_url": "https://www.youtube.com/watch?v=EIc_wJtm6AU"
+    },
+    {
+        "tmdb_id": 7555,
+        "titulo": "Rambo IV",
+        "descricao": "John Rambo se recolheu no norte da Tail\u00e2ndia, onde pilota um barco no Rio Salween. Na fronteira com a Birm\u00e2nia, a mais longa guerra civil acontece entre birmaneses e a tribo Karen, um conflito de quase 60 anos. Mas Rambo tem uma vida simples e solit\u00e1ria nas montanhas e selvas e h\u00e1 muito tempo desistiu de lutar. At\u00e9 que um grupo de mission\u00e1rios de direitos humanos o procura pedindo sua ajuda. O grupo logo \u00e9 capturado e um pastor contrata um grupo de mercen\u00e1rios para resgat\u00e1-los. Apesar de ter sido um soldado treinado para matar, Rambo reluta em se envolver em conflitos violentos ap\u00f3s tanto tempo. Suas feridas cicatrizaram, mas ainda est\u00e3o vis\u00edveis.",
+        "data_lancamento": "2008-01-24",
+        "avaliacao": 6.688,
+        "poster_path": "/2NbmBzgG1chI3fS31HHfZEEsApw.jpg",
+        "generos": [
+            "A\u00e7\u00e3o",
+            "Thriller",
+            "Guerra"
+        ],
+        "diretor": "Sylvester Stallone",
+        "atores_principais": [
+            "Sylvester Stallone",
+            "Julie Benz",
+            "Matthew Marsden",
+            "Graham McTavish",
+            "Reynaldo Gallegos"
+        ],
+        "trailer_url": null
+    },
+    {
+        "tmdb_id": 238,
+        "titulo": "O Poderoso Chef\u00e3o",
+        "descricao": "Em 1945, Don Corleone \u00e9 o chefe de uma mafiosa fam\u00edlia italiana de Nova York. Ele costuma apadrinhar v\u00e1rias pessoas, realizando importantes favores para elas, em troca de favores futuros. Com a chegada das drogas, as fam\u00edlias come\u00e7am uma disputa pelo promissor mercado. Quando Corleone se recusa a facilitar a entrada dos narc\u00f3ticos na cidade, n\u00e3o oferecendo ajuda pol\u00edtica e policial, sua fam\u00edlia come\u00e7a a sofrer atentados para que mudem de posi\u00e7\u00e3o. \u00c9 nessa complicada \u00e9poca que Michael, um her\u00f3i de guerra nunca envolvido nos neg\u00f3cios da fam\u00edlia, v\u00ea a necessidade de proteger o seu pai e tudo o que ele construiu ao longo dos anos.",
+        "data_lancamento": "1972-03-14",
+        "avaliacao": 8.7,
+        "poster_path": "/oJagOzBu9Rdd9BrciseCm3U3MCU.jpg",
+        "generos": [
+            "Drama",
+            "Crime"
+        ],
+        "diretor": "Francis Ford Coppola",
+        "atores_principais": [
+            "Marlon Brando",
+            "Al Pacino",
+            "James Caan",
+            "Robert Duvall",
+            "Richard S. Castellano"
+        ],
+        "trailer_url": "https://www.youtube.com/watch?v=0v6MO0EB7UY"
+    },
+    {
+        "tmdb_id": 559,
+        "titulo": "Homem-Aranha 3",
+        "descricao": "O relacionamento entre Peter Parker e Mary Jane parece estar dando certo, mas outros problemas come\u00e7am a surgir. A roupa de Homem-Aranha torna-se preta e acaba controlando Peter, que apesar de aumentar seus poderes, revela o lado obscuro de sua personalidade. Os vil\u00f5es Venon e Homem-Areia tentam destruir o super-her\u00f3i.",
+        "data_lancamento": "2007-05-01",
+        "avaliacao": 6.447,
+        "poster_path": "/5831VrgpYNPEokBwxurLVpQ3twM.jpg",
+        "generos": [
+            "A\u00e7\u00e3o",
+            "Aventura",
+            "Fic\u00e7\u00e3o cient\u00edfica"
+        ],
+        "diretor": "Sam Raimi",
+        "atores_principais": [
+            "Tobey Maguire",
+            "Kirsten Dunst",
+            "James Franco",
+            "Thomas Haden Church",
+            "Topher Grace"
+        ],
+        "trailer_url": "https://www.youtube.com/watch?v=CJBJQl9X5R8"
+    },
+    {
+        "tmdb_id": 558,
+        "titulo": "Homem-Aranha 2",
+        "descricao": "Dois anos se passaram desde que o tranquilo Peter Parker separou-se do grande amor de sua vida, Mary Jane Watson, e decidiu assumir o compromisso e a responsabilidade de seguir sendo o Homem-Aranha. Peter enfrenta novos desafios enquanto aprende a lidar com \"seu dom e sua maldi\u00e7\u00e3o\", tentando desesperadamente harmonizar suas duas identidades: A do super-her\u00f3i aracn\u00eddeo, o Homem-Aranha, e a do estudante universit\u00e1rio.",
+        "data_lancamento": "2004-06-25",
+        "avaliacao": 7.296,
+        "poster_path": "/y06FivvCfqapHB3iETOtbAqWdkD.jpg",
+        "generos": [
+            "A\u00e7\u00e3o",
+            "Aventura",
+            "Fic\u00e7\u00e3o cient\u00edfica"
+        ],
+        "diretor": "Sam Raimi",
+        "atores_principais": [
+            "Tobey Maguire",
+            "Kirsten Dunst",
+            "James Franco",
+            "Alfred Molina",
+            "Rosemary Harris"
+        ],
+        "trailer_url": "https://www.youtube.com/watch?v=1UAzz8ncM68"
+    },
+    {
+        "tmdb_id": 4247,
+        "titulo": "Todo Mundo em P\u00e2nico",
+        "descricao": "Depois do assassinato de uma bela colega de classe, um grupo de adolescentes desorientados descobre que h\u00e1 um assassino entre eles. A hero\u00edna Cindy Campbell e a sua turma de amigos mauricinhos e patricinhas, tentam se proteger do perigo... Mas uma reporter irritante, Gail Hailstorm, simplesmente n\u00e3o os deixa em paz! Parece familiar? Talvez sim, mas essa hist\u00f3ria repleta de reviravoltas e surpresas horripilantes e humor ultrajante extrapola no g\u00eanero de horror e a\u00e7\u00e3o.",
+        "data_lancamento": "2000-07-07",
+        "avaliacao": 6.38,
+        "poster_path": "/daorfyZdHkI44vuf3DVDbmJkYQI.jpg",
+        "generos": [
+            "Com\u00e9dia"
+        ],
+        "diretor": "Keenen Ivory Wayans",
+        "atores_principais": [
+            "Anna Faris",
+            "Jon Abrahams",
+            "Marlon Wayans",
+            "Shawn Wayans",
+            "Regina Hall"
+        ],
+        "trailer_url": null
+    },
+    {
+        "tmdb_id": 809,
+        "titulo": "Shrek 2",
+        "descricao": "Ap\u00f3s se casar com a Princesa Fiona (Cameron Diaz), Shrek (Mike Myers) vive feliz em seu p\u00e2ntano. Ao retornar de sua lua-de-mel Fiona recebe uma carta de seus pais, que n\u00e3o sabem que ela agora \u00e9 um ogro, convidando-a para um jantar juntamente com seu grande amor, na inten\u00e7\u00e3o de conhec\u00ea-lo. A muito custo Fiona consegue convencer Shrek a ir visit\u00e1-los, tendo ainda a companhia do Burro (Eddie Murphy). Por\u00e9m os problemas come\u00e7am quando os pais de Fiona descobrem que ela n\u00e3o se casou com o Pr\u00edncipe (Rupert Everett), a quem havia sido prometida, e enviam o Gato de Botas (Antonio Banderas) para separ\u00e1-los.",
+        "data_lancamento": "2004-05-19",
+        "avaliacao": 7.3,
+        "poster_path": "/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
+        "generos": [
+            "Anima\u00e7\u00e3o",
+            "Fam\u00edlia",
+            "Com\u00e9dia",
+            "Fantasia",
+            "Aventura",
+            "Romance"
+        ],
+        "diretor": "Conrad Vernon",
+        "atores_principais": [
+            "Mike Myers",
+            "Eddie Murphy",
+            "Cameron Diaz",
+            "Julie Andrews",
+            "Antonio Banderas"
+        ],
+        "trailer_url": null
+    },
+    {
+        "tmdb_id": 808,
+        "titulo": "Shrek",
+        "descricao": "Em um p\u00e2ntano distante vive Shrek, um ogro solit\u00e1rio que v\u00ea, sem mais nem menos, sua vida ser invadida por uma s\u00e9rie de personagens de contos de fada, como tr\u00eas ratos cegos, um grande e malvado lobo e ainda tr\u00eas porcos que n\u00e3o t\u00eam um lugar onde morar. Todos eles foram expulsos de seus lares pelo maligno Lorde Farquaad. Determinado a recuperar a tranquilidade de antes, Shrek resolve encontrar Farquaad e com ele faz um acordo: todos os personagens poder\u00e3o retornar aos seus lares se ele e seu amigo Burro resgatarem uma bela princesa, que \u00e9 prisioneira de um drag\u00e3o. Por\u00e9m, quando Shrek e o Burro enfim conseguem resgatar a princesa logo eles descobrem que seus problemas est\u00e3o apenas come\u00e7ando.",
+        "data_lancamento": "2001-05-18",
+        "avaliacao": "7.753",
+        "poster_path": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+        "generos": [
+            "Anima\u00e7\u00e3o",
+            "Com\u00e9dia",
+            "Fantasia",
+            "Aventura",
+            "Fam\u00edlia"
+        ],
+        "diretor": "Andrew Adamson",
+        "atores_principais": [
+            "Mike Myers",
+            "Eddie Murphy",
+            "Cameron Diaz",
+            "John Lithgow",
+            "Vincent Cassel"
+        ],
+        "trailer_url": "https://www.youtube.com/watch?v=5KhMx85eaOM",
+        "poster_custom": "/static/uploads/poster/72f32dd2-6704-4b3a-b287-809a698d3efa.jpg"
+    },
+    {
+        "tmdb_id": 1084244,
+        "titulo": "Toy Story 5",
+        "descricao": "O trabalho de Buzz, Woody, Jessie e do resto da gangue fica exponencialmente mais dif\u00edcil quando eles enfrentam uma nova amea\u00e7a \u00e0 divers\u00e3o: a tecnologia.",
+        "data_lancamento": "2026-06-17",
+        "avaliacao": 0.0,
+        "poster_path": "/q9luDXycWh1xm6K4eN7IXitRMpp.jpg",
+        "generos": [
+            "Anima\u00e7\u00e3o",
+            "Fam\u00edlia",
+            "Com\u00e9dia"
+        ],
+        "diretor": "Andrew Stanton",
+        "atores_principais": [
+            "Tom Hanks",
+            "Tim Allen",
+            "Joan Cusack",
+            "Tony Hale",
+            "Ernie Hudson"
+        ],
+        "trailer_url": null
+    },
+    {
+        "tmdb_id": 810,
+        "titulo": "Shrek Terceiro",
+        "descricao": "O rei Harold, pai de Fiona, morre repentinamente. Com isto Shrek precisa ser coroado rei, algo que ele jamais pensou em ser. Juntamente com o Burro e o Gato de Botas, ele precisa encontrar algu\u00e9m que possa substitu\u00ed-lo no cargo de soberano do Reino de T\u00e3o, T\u00e3o Distante. O principal candidato \u00e9 Artie, um jovem desprezado por todos em sua escola, que \u00e9 primo de Fiona.",
+        "data_lancamento": "2007-05-17",
+        "avaliacao": 6.3,
+        "poster_path": "/abw1mIJIjG9X3xSEffE9siLcOkN.jpg",
+        "generos": [
+            "Fantasia",
+            "Aventura",
+            "Anima\u00e7\u00e3o",
+            "Com\u00e9dia",
+            "Fam\u00edlia"
+        ],
+        "diretor": "Chris Miller",
+        "atores_principais": [
+            "Mike Myers",
+            "Eddie Murphy",
+            "Cameron Diaz",
+            "Antonio Banderas",
+            "Julie Andrews"
+        ],
+        "trailer_url": null
+    },
+    {
+        "tmdb_id": 61791,
+        "titulo": "Planeta dos Macacos: A Origem",
+        "descricao": "Will Rodman \u00e9 um jovem cientista que pesquisa macacos para obter um tratamento para o mal de Alzheimer, doen\u00e7a que afeta seu pai. Um desses primatas, a quem chamam de C\u00e9sar, experimenta uma evolu\u00e7\u00e3o t\u00e3o not\u00e1vel na intelig\u00eancia que Will decide lev\u00e1-lo para casa para proteg\u00ea-lo. Quando Will \u00e9 for\u00e7ado a colocar o animal em uma cela segura depois que ele ataca um vizinho, C\u00e9sar lidera uma revolta animal contra seus captores humanos e a humanidade.",
+        "data_lancamento": "2011-08-03",
+        "avaliacao": 7.3,
+        "poster_path": "/qxe4ONZAgtC0mfsIuOyqVU9JREj.jpg",
+        "generos": [
+            "Thriller",
+            "A\u00e7\u00e3o",
+            "Drama",
+            "Fic\u00e7\u00e3o cient\u00edfica"
+        ],
+        "diretor": "Rupert Wyatt",
+        "atores_principais": [
+            "Andy Serkis",
+            "James Franco",
+            "Freida Pinto",
+            "John Lithgow",
+            "Brian Cox"
+        ],
+        "trailer_url": "https://www.youtube.com/watch?v=tb-xfRR-ig8"
+    },
+    {
+        "tmdb_id": 281338,
+        "titulo": "Planeta dos Macacos: A Guerra",
+        "descricao": "C\u00e9sar e seus macacos s\u00e3o for\u00e7ados a um conflito mortal com um ex\u00e9rcito de humanos liderado por um coronel implac\u00e1vel. Depois que os macacos sofrem perdas inimagin\u00e1veis, C\u00e9sar luta contra seus instintos mais sombrios e inicia sua pr\u00f3pria busca m\u00edtica para vingar sua esp\u00e9cie. \u00c0 medida que a viagem finalmente os coloca cara a cara, C\u00e9sar e o Coronel enfrentam-se numa batalha \u00e9pica que determinar\u00e1 o destino das suas esp\u00e9cies e o futuro do planeta.",
+        "data_lancamento": "2017-07-11",
+        "avaliacao": 7.2,
+        "poster_path": "/n336SuXSxpQkrzWJbSAeWFcKWy4.jpg",
+        "generos": [
+            "Drama",
+            "Fic\u00e7\u00e3o cient\u00edfica",
+            "Guerra"
+        ],
+        "diretor": "Matt Reeves",
+        "atores_principais": [
+            "Andy Serkis",
+            "Woody Harrelson",
+            "Karin Konoval",
+            "Terry Notary",
+            "Steve Zahn"
+        ],
+        "trailer_url": "https://www.youtube.com/watch?v=_lX4oRw179k"
+    },
+    {
+        "tmdb_id": 119450,
+        "titulo": "Planeta dos Macacos: O Confronto",
+        "descricao": "Em 2026, a humanidade est\u00e1 enfrentando sua pior crise e est\u00e1 muito pr\u00f3xima da extin\u00e7\u00e3o por conta de um v\u00edrus mortal. Um grupo de sobreviventes organiza uma expedi\u00e7\u00e3o pelas florestas pr\u00f3ximas de S\u00e3o Francisco em busca de uma nova fonte de energia quando se deparam com uma comunidade, muito evolu\u00edda, de macacos liderados por C\u00e9sar. Alguns dissidentes, mesmo com o pacto de paz firmado, quebram a tr\u00e9gua e d\u00e3o in\u00edcio a uma guerra sem precedentes entre as duas esp\u00e9cies.",
+        "data_lancamento": "2014-07-08",
+        "avaliacao": 7.3,
+        "poster_path": "/4vLhF6R3lmhTjTVUdK4gI1s5a8v.jpg",
+        "generos": [
+            "Fic\u00e7\u00e3o cient\u00edfica",
+            "A\u00e7\u00e3o",
+            "Drama",
+            "Thriller"
+        ],
+        "diretor": "Matt Reeves",
+        "atores_principais": [
+            "Andy Serkis",
+            "Jason Clarke",
+            "Toby Kebbell",
+            "Gary Oldman",
+            "Keri Russell"
+        ],
+        "trailer_url": "https://www.youtube.com/watch?v=33TtMaMGeL4"
+    },
+    {
+        "tmdb_id": 1487,
+        "titulo": "Hellboy",
+        "descricao": "J\u00e1 perto do fim da 2\u00aa Guerra Mundial, os nazistas tentam eliminar seus inimigos usando magia negra. Uma das experi\u00eancias feitas \u00e9 a tentativa de invocar for\u00e7as ocultas. Um deste rituais \u00e9 interrompido pelas for\u00e7as aliadas, que encontram um garoto com apar\u00eancia de dem\u00f4nio e a m\u00e3o direita feita de pedra, apesar do ritual n\u00e3o ter sido conclu\u00eddo. O garoto passa a ser chamado de Hellboy e \u00e9 levado pelos Aliados. Sessenta anos depois, Hellboy agora luta pelo bem e \u00e9 chamado quando um estranho fen\u00f4meno, possivelmente sobrenatural, acontece.",
+        "data_lancamento": "2004-04-02",
+        "avaliacao": 6.7,
+        "poster_path": "/ipGI3DJp9ExZtNtxqWf3wXVtf6Q.jpg",
+        "generos": [
+            "Fantasia",
+            "A\u00e7\u00e3o"
+        ],
+        "diretor": "Guillermo del Toro",
+        "atores_principais": [
+            "Ron Perlman",
+            "Selma Blair",
+            "Doug Jones",
+            "John Hurt",
+            "Rupert Evans"
+        ],
+        "trailer_url": "https://www.youtube.com/watch?v=Af2sZ8_fk4o"
+    },
+    {
+        "tmdb_id": 5559,
+        "titulo": "Bee Movie: A Hist\u00f3ria de uma Abelha",
+        "descricao": "O ambicioso jovem Barry B. Benson cai no mundo com os respeitados Ases do P\u00f3len em busca de n\u00e9ctar e aventura. Mas quando quebra uma das regras fundamentais do mundo das abelhas e fala com humanos, Barry provoca uma incr\u00edvel s\u00e9rie de fatos, que provam que at\u00e9 uma pequena abelha pode fazer a grande diferen\u00e7a!",
+        "data_lancamento": "2007-10-28",
+        "avaliacao": 6.026,
+        "poster_path": "/puW6ynGLcCowqiYvhPhdbNH8Zzj.jpg",
+        "generos": [
+            "Fam\u00edlia",
+            "Anima\u00e7\u00e3o",
+            "Aventura",
+            "Com\u00e9dia"
+        ],
+        "diretor": "Steve Hickner",
+        "atores_principais": [
+            "Jerry Seinfeld",
+            "Ren\u00e9e Zellweger",
+            "Matthew Broderick",
+            "Patrick Warburton",
+            "John Goodman"
+        ],
+        "trailer_url": null
+    },
+    {
+        "tmdb_id": 76600,
+        "titulo": "Avatar: O Caminho da \u00c1gua",
+        "descricao": "12 anos depois de explorar Pandora e se juntar aos Na'vi, Jake Sully formou uma fam\u00edlia com Neytiri e se estabeleceu entre os cl\u00e3s do novo mundo. Por\u00e9m, a paz n\u00e3o durar\u00e1 para sempre.",
+        "data_lancamento": "2022-12-14",
+        "avaliacao": 7.61,
+        "poster_path": "/hm6nONQOgVpKmRK5YUX9EqfJ0NH.jpg",
+        "poster_custom": null,
+        "generos": [
+            "A\u00e7\u00e3o",
+            "Aventura",
+            "Fic\u00e7\u00e3o cient\u00edfica"
+        ],
+        "diretor": "James Cameron",
+        "atores_principais": [
+            "Sam Worthington",
+            "Zoe Salda\u00f1a",
+            "Sigourney Weaver",
+            "Stephen Lang",
+            "Kate Winslet"
+        ],
+        "trailer_url": "https://www.youtube.com/watch?v=0EiWJ9SjcE4"
+    },
+    {
+        "tmdb_id": 83533,
+        "titulo": "Avatar: Fogo e Cinzas",
+        "descricao": "Ap\u00f3s a devastadora guerra contra a RDA e a perda de seu filho mais velho, Jake Sully e Neytiri enfrentam uma nova amea\u00e7a em Pandora: o Povo das Cinzas, uma tribo Na'vi violenta e sedenta por poder, liderada pelo implac\u00e1vel Varang. A fam\u00edlia de Jake deve lutar por sua sobreviv\u00eancia e pelo futuro de Pandora em um conflito que os leva aos seus limites emocionais e f\u00edsicos.",
+        "data_lancamento": "2025-12-17",
+        "avaliacao": 0.0,
+        "poster_path": "/ywSmtzjp3ueZeGsrzXJsUDnMcqE.jpg",
+        "poster_custom": null,
+        "generos": [
+            "Fic\u00e7\u00e3o cient\u00edfica",
+            "Aventura",
+            "Fantasia"
+        ],
+        "diretor": "James Cameron",
+        "atores_principais": [
+            "Sam Worthington",
+            "Zoe Salda\u00f1a",
+            "Sigourney Weaver",
+            "Stephen Lang",
+            "Oona Chaplin"
+        ],
+        "trailer_url": "https://www.youtube.com/watch?v=V_F2c-li5gU"
+    },
+    {
+        "tmdb_id": 1159559,
+        "titulo": "P\u00e2nico 7",
+        "descricao": "Quando um novo Ghostface surge na pacata cidade onde Sidney Prescott reconstruiu sua vida, seus medos mais sombrios se tornam reais enquanto sua filha se torna o pr\u00f3ximo alvo do assassino. Determinada a proteger sua fam\u00edlia, Sidney ter\u00e1 que enfrentar os horrores do seu passado para acabar com o massacre de uma vez por todas.",
+        "data_lancamento": "2026-02-25",
+        "avaliacao": 0.0,
+        "poster_path": "/62SxhU2DU3kzK8jQmp5t1S0j8Vo.jpg",
+        "poster_custom": null,
+        "generos": [
+            "Terror",
+            "Mist\u00e9rio",
+            "Thriller"
+        ],
+        "diretor": "Kevin Williamson",
+        "atores_principais": [
+            "Neve Campbell",
+            "Courteney Cox",
+            "Isabel May",
+            "Jasmin Savoy Brown",
+            "Mason Gooding"
+        ],
+        "trailer_url": "https://www.youtube.com/watch?v=3R9o8R8O7F8"
+    },
+    {
+        "tmdb_id": 597,
+        "titulo": "Titanic",
+        "descricao": "Um artista pobre e uma jovem rica se conhecem e se apaixonam na fat\u00eddica jornada do Titanic, em 1912. Embora esteja noiva do arrogante herdeiro de uma sider\u00fargica, a jovem desafia sua fam\u00edlia e amigos em busca do verdadeiro amor.",
+        "data_lancamento": "1997-11-18",
+        "avaliacao": 7.903,
+        "poster_path": "/iKeGoTzLXp2Q2x5aCHQnxMhEWdO.jpg",
+        "poster_custom": null,
+        "generos": [
+            "Drama",
+            "Romance"
+        ],
+        "diretor": "James Cameron",
+        "atores_principais": [
+            "Leonardo DiCaprio",
+            "Kate Winslet",
+            "Billy Zane",
+            "Kathy Bates",
+            "Frances Fisher"
+        ],
+        "trailer_url": "https://www.youtube.com/watch?v=IH6_CA_ocqY"
+    },
+    {
+        "tmdb_id": 11036,
+        "titulo": "Di\u00e1rio de uma Paix\u00e3o",
+        "descricao": "Na d\u00e9cada de 40, o oper\u00e1rio Noah Calhoun e a rica Allie est\u00e3o desesperadamente apaixonados, mas os pais da jovem n\u00e3o aprovam o namoro. Quando Noah vai para a Segunda Guerra Mundial, parece ser o fim do romance. Enquanto isso, Allie se envolve com outro homem. Mas quando Noah retorna para a pequena cidade anos mais tarde, pr\u00f3ximo ao casamento de Allie, logo se torna claro que a paix\u00e3o ainda n\u00e3o acabou.",
+        "data_lancamento": "2004-06-25",
+        "avaliacao": 7.892,
+        "poster_path": "/A07izLVyZCrmq0HTvFg6qdqiZE5.jpg",
+        "poster_custom": null,
+        "generos": [
+            "Romance",
+            "Drama"
+        ],
+        "diretor": "Nick Cassavetes",
+        "atores_principais": [
+            "Ryan Gosling",
+            "Rachel McAdams",
+            "Gena Rowlands",
+            "James Garner",
+            "Joan Allen"
+        ],
+        "trailer_url": null
+    },
+    {
+        "tmdb_id": 19995,
+        "titulo": "Avatar",
+        "descricao": "Apesar de n\u00e3o ter mais os movimentos da perna, o ex-fuzileiro naval Jake Sully ainda sente que pode ser um guerreiro. Sua intui\u00e7\u00e3o come\u00e7a a se tornar realidade quando ele viaja anos-luz at\u00e9 a esta\u00e7\u00e3o espacial montada no Planeta Pandora. Habitado por grandes seres azuis, os Na\u00b4vi, o local tem uma atmosfera fatal para qualquer terrestre. Por isso, oficiais criaram o programa Avatar, em que um corpo biol\u00f3gico, h\u00edbrido de humano e Na\u00b4vi, pode ser comandado a dist\u00e2ncia.",
+        "data_lancamento": "2009-12-15",
+        "avaliacao": "7.6",
+        "poster_path": "/ach8o4iO5SV8w0E4Xj2Shz7vN5N.jpg",
+        "poster_custom": "/static/uploads/poster/2f09b29e-ea2d-4c79-9071-c397e33b13e6.webp",
+        "generos": [
+            "A\u00e7\u00e3o",
+            "Aventura",
+            "Fantasia",
+            "Fic\u00e7\u00e3o cient\u00edfica"
+        ],
+        "diretor": "James Cameron",
+        "atores_principais": [
+            "Sam Worthington",
+            "Zoe Salda\u00f1a",
+            "Sigourney Weaver",
+            "Stephen Lang",
+            "Michelle Rodriguez"
+        ],
+        "trailer_url": "https://www.youtube.com/watch?v=G1fymUSI4cc"
+    },
+    {
+        "tmdb_id": 1368166,
+        "titulo": "A Empregada",
+        "descricao": "Millie \u00e9 uma mulher passando por dificuldades que se sente aliviada com a chance de um novo come\u00e7o como empregada dom\u00e9stica de Nina e Andrew, um casal rico. Logo, ela descobre que os segredos da fam\u00edlia s\u00e3o muito mais perigosos do que os seus.",
+        "data_lancamento": "2025-12-19",
+        "avaliacao": 0.0,
+        "poster_path": "/QpsWtQgzB1K1Dwxt2TL4JCETbT.jpg",
+        "poster_custom": null,
+        "generos": [
+            "Mist\u00e9rio",
+            "Thriller"
+        ],
+        "diretor": "Paul Feig",
+        "atores_principais": [
+            "Sydney Sweeney",
+            "Amanda Seyfried",
+            "Brandon Sklenar",
+            "Michele Morrone",
+            "Ellen Tamaki"
+        ],
+        "trailer_url": "https://www.youtube.com/watch?v=8yVH48YVy1U"
+    }
+]

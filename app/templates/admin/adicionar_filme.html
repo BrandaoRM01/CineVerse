@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+
+{% block titulo %}Adicionar Filme - CineVerse{% endblock titulo %}
+
+{% block css %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/admin/adicionar_filme.css') }}">
+{% endblock css %}
+
+{% block conteudo %}
+<div class="container my-5">
+    <h1 class="mb-5 text-center fw-bold text-light">Adicionar Filme</h1>
+
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form id="form-adicionar-filme" action="{{ url_for('admin_bp.adicionar') }}" method="POST"
+                class="bg-black p-4 rounded shadow">
+                <div class="mb-3">
+                    <label for="titulo" class="form-label text-light">Título do Filme</label>
+                    <input type="text" class="form-control input-transparent" id="titulo" name="titulo"
+                        placeholder="Digite o título do filme" required>
+                </div>
+
+                <button type="submit" class="btn btn-danger w-100">Buscar e Adicionar</button>
+            </form>
+
+            <div id="mensagem-adicionar" class="mt-3 text-center"></div>
+        </div>
+    </div>
+
+    <div id="tabela-filmes-container" class="table-responsive mt-4">
+
+    </div>
+
+</div>
+{% endblock conteudo %}
+
+{% block scripts %}
+<script src="{{ url_for('static', filename='js/admin/adicionar_filme.js') }}"></script>
+{% endblock scripts %}
