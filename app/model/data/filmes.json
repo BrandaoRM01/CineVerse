@@ -975,5 +975,27 @@
             "Danielle Panabaker"
         ],
         "trailer_url": null
+    },
+    {
+        "tmdb_id": 11075,
+        "titulo": "O Teste Decisivo",
+        "descricao": "Sete anos ap\u00f3s a morte de sua esposa, Aoyama, um executivo de uma grande empresa, \u00e9 convidado para fazer parte da banca de avalia\u00e7\u00e3o na audi\u00e7\u00e3o para selecionar uma atriz. Folheando os curr\u00edculos com anteced\u00eancia, sua aten\u00e7\u00e3o \u00e9 capturada por Yamazaki Asami, uma jovem mulher impressionante e com forma\u00e7\u00e3o de ballet. O intuito real de Aoyama \u00e9 escolher uma nova esposa, o que ele n\u00e3o sabe s\u00e3o as verdadeiras inten\u00e7\u00f5es sanguin\u00e1rias de Yamazaki.",
+        "data_lancamento": "2000-03-03",
+        "avaliacao": 7.124,
+        "poster_path": "/6yxCWdPGog6CGNI3CYBQ7ub7y6V.jpg",
+        "poster_custom": null,
+        "generos": [
+            "Terror",
+            "Drama"
+        ],
+        "diretor": "Takashi Miike",
+        "atores_principais": [
+            "\u77f3\u6a4b\u51cc",
+            "\u690e\u540d\u82f1\u59eb",
+            "\u570b\u6751\u96bc",
+            "\u6ca2\u6728\u54f2",
+            "\u77f3\u6a4b\u84ee\u53f8"
+        ],
+        "trailer_url": null
     }
 ]
