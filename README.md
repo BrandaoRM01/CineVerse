@@ -112,7 +112,7 @@ Neste arquivo, defina os dados do **ADMINISTRADOR PRINCIPAL**, preenchendo:
 * **senha**
 * **email**
 
-Essas informações serão usadas para acessar o **painel administrativo** logo após iniciar o sistema.
+Essas informações serão usadas para criar a conta do primeiro usuario do site como **ADMIN PRINCIPAL**.
 
 ---
 
