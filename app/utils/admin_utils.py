@@ -15,13 +15,13 @@ def criar_admin():
         if usuario['admin'] == True:
             return
     else:
-        senha = 'R@ul1607'
+        senha = 'sua_senha_admin_aqui'
         senha_hash = hashlib.sha256(senha.encode()).hexdigest()
 
         admin_usuario = {
             'id': str(uuid.uuid4()),
-            'username': 'brandaorm01',
-            'email': 'raulmb231@hotmail.com',
+            'username': 'seu_username_admin_aqui',
+            'email': 'seu_email_admin_aqui',
             'senha': senha_hash,
             'senhas': [],
             'imagem_url': '/static/img/default_user.jpg',
