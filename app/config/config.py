@@ -3,7 +3,7 @@ import os
 from sib_api_v3_sdk import Configuration
 
 class Config:
-    SECRET_KEY = 'CHAVE_DE_EXEMPLO'
+    SECRET_KEY = 'sua_chave_secreta_aqui'
     DEBUG = True
 
     BASE_DIR = Path(__file__).resolve().parent.parent
@@ -16,8 +16,12 @@ class Config:
 
     TIPOS_IMAGEM = {'png', 'jpg', 'jpeg', 'webp'}
 
-    TMDB_API_KEY = 'TMDB_API_KEY_EXEMPLO'
-    BREVO_API_KEY = 'BREVO_API_KEY_EXEMPLO'
+    TMDB_API_KEY = 'sua_chave_api_tmdb_aqui'
+    BREVO_API_KEY = 'sua_chave_api_brevo_aqui'
+
+    USERNAME_ADMIN = 'seu_username_admin_aqui'
+    EMAIL_ADMIN = 'seu_email_admin_aqui'
+    SENHA_ADMIN = 'sua_senha_admin_aqui'
 
 brevo_config = Configuration()
 brevo_config.api_key['api-key'] = Config.BREVO_API_KEY

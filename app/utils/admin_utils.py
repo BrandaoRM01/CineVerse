@@ -12,16 +12,19 @@ def criar_admin():
     usuarios = load_data(Config.DATA_USERS)
 
     for usuario in usuarios:
-        if usuario['admin'] == True:
+        if usuario['admin'] == True and usuario['principal'] == True:
             return
     else:
-        senha = 'sua_senha_admin_aqui'
+        username = Config.USERNAME_ADMIN
+        email = Config.EMAIL_ADMIN
+        senha = Config.SENHA_ADMIN
+
         senha_hash = hashlib.sha256(senha.encode()).hexdigest()
 
         admin_usuario = {
             'id': str(uuid.uuid4()),
-            'username': 'seu_username_admin_aqui',
-            'email': 'seu_email_admin_aqui',
+            'username': username,
+            'email': email,
             'senha': senha_hash,
             'senhas': [],
             'imagem_url': '/static/img/default_user.jpg',
