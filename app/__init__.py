@@ -3,7 +3,6 @@ from app.config.config import Config
 from app.utils.admin_utils import criar_admin
 
 def create_app():
-
     app = Flask(__name__)
     app.config.from_object(Config)
 
