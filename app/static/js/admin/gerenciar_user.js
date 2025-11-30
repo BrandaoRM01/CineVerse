@@ -1,5 +1,4 @@
 document.addEventListener('DOMContentLoaded', async () => {
-
     let usuarios_lista = [];
     let usuario_logado = null;
     let tabela_container = document.querySelector('#usuarios-container');
