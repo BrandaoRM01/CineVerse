@@ -1,5 +1,4 @@
 document.addEventListener('DOMContentLoaded', async () => {
-
     let menu_principal = document.querySelector('#menu_principal');
     let area_nav_direita = document.querySelector('#area_nav_direita');
 
