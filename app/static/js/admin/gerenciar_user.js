@@ -22,7 +22,8 @@ document.addEventListener('DOMContentLoaded', async () => {
             if (!resposta.ok) throw new Error('Erro ao buscar usuários.');
             let data = await resposta.json();
             usuarios_lista = Array.isArray(data) ? data : [];
-        } catch (erro) {
+        } 
+        catch (erro) {
             tabela_container.innerHTML = `<p class="text-center text-danger">Não foi possível carregar os usuários.</p>`;
             console.error(erro);
             return;
@@ -48,10 +49,12 @@ document.addEventListener('DOMContentLoaded', async () => {
             if (resposta.ok && data.sucesso) {
                 alert(data.sucesso);
                 await carregar_usuarios();
-            } else {
+            } 
+            else {
                 alert(data.erro || 'Erro ao alterar permissão.');
             }
-        } catch (erro) {
+        } 
+        catch (erro) {
             alert('Erro ao alterar permissão.');
             console.error(erro);
         }
